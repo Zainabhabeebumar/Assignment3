@@ -1,0 +1,33 @@
+<body><head><style>
+		p1{
+			text-align: center;
+			color: black ;
+		
+		}
+		nav,li{
+			align-items: center;
+
+		}
+		body{
+		
+		}
+		p2{
+			text-align: center;
+
+		}
+		img{
+			height: 240px;
+			width: 200px;
+			position: center;
+
+		}
+		fig{
+			align-items: center;
+		}
+footer{
+	text-align: center;
+}
+
+	</style>
+</head>
+</html>
